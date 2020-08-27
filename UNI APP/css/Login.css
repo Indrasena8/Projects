@@ -1,0 +1,33 @@
+body{
+    align-content: center;
+}
+button{
+    height:30px;
+    width:150px; 
+    border-radius:15px;
+    font-size: 20px;
+    font-style: normal;
+    font-family:monospace;
+    border-color: black;
+    color: black;
+}
+#em1,
+#pass{
+    height:40px;
+    width: 220px;
+    border-radius:10px;
+    align-content: center;
+    border-color: black;
+}
+img{
+    height:150px;
+    width:150px;
+    border-radius: 50px;
+    border-color: black;
+}
+
+h2{
+    color:black;
+    font-size: 25px;
+    font-family: monospace;
+}

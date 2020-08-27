@@ -1,0 +1,54 @@
+body{
+    align-content: center;
+    background-color:#41C3AC;
+}
+button{
+    height:30px;
+    width:100px; 
+    border-radius:15px;
+    font-size:20px;
+    font-style:normal;
+    font-family:monospace;
+    border-color: black;
+    color: black;
+}
+#first,
+#last,
+#em2,
+#pass1,
+#pass2{   
+    border: 3px solid black;
+    padding: 5px 10px;
+    border-radius:10px;
+    height: 50px;
+    width:200px;
+}
+#submit,
+#rst,
+#cancel{
+    border: 3px solid black;
+    padding: 5px 10px;
+    border-radius:10px;
+    height: 40px;
+    width:125px;
+}
+img{
+    height:150px;
+    width:150px;
+    border-radius: 50px;
+    border-color: black;
+}
+
+h1{
+    color:black;
+    font-size: 25px;
+    font-family: monospace;
+}
+
+#header{
+    background-color: khaki;
+    color:black;
+    font-size: 30px;
+    height: 40px;
+    width: 100%;
+}

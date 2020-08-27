@@ -1,0 +1,27 @@
+div{
+    background-color: deepskyblue;
+}
+marquee{
+    font-size: 30px;
+}
+h1{
+    color:deepskyblue;
+    font-style: italic;
+}
+#wel{
+    color: gray;
+    font-size: 30px;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+button{
+    height: 50px;
+    width: 250px;
+    padding: 1px 3px;
+    border:2px solid black;
+    border-radius: 25px;
+    font-size: 25px;
+}
