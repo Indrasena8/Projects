@@ -23,6 +23,6 @@ INSTALLATION:
     Matplotlib: pip install matplotlib
 CONFIGURATION:
 There is no configuration required
-MAINTAINERS:
+MAINTAINERS: 
 Indrasena Kalyanam - https://www.linkedin.com/in/indrasena-kalyanam/
 Contact: indrasenakalayanam@gmail.com
