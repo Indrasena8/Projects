@@ -1,5 +1,5 @@
 # k_means_clustering
-This project classifies the cluster of data into two categories (k=2) using k-means clustering algorithm.
+This project classifies the cluster of data into two categories(k=2) using k-means clustering algorithm.
 
 The dataset(durudataset.txt) consists of two columns.
 
