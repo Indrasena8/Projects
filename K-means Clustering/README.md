@@ -1,7 +1,10 @@
 # k_means_clustering
 This project classifies the cluster of data into two categories (k=2) using k-means clustering algorithm.
+
 The dataset(durudataset.txt) consists of two columns.
+
 The left column is the number of packets sent per second
+
 The right column is the size of the packet
 
 ## Dependencies
@@ -20,4 +23,5 @@ Install `jupyter` from [here](http://jupyter.readthedocs.io/en/latest/install.ht
 
 ## Maintainer
 Indrasena Kalyanam - https://www.linkedin.com/in/indrasena-kalyanam/
+
 Contact: indrasenakalayanam@gmail.com
