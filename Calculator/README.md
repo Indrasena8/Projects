@@ -1,5 +1,5 @@
 ## Calculator
-This is a simple python program that illustrates the working of a calculator performing some basic actions such as addition, subtraction, multiplication, division.
+This is a simple GUI based python program that illustrates the working of a calculator performing some basic actions such as addition, subtraction, multiplication, division.
 
 ## Rquirements
 1. Python3 IDE or Jupyter Notebook
